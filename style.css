@@ -3,6 +3,7 @@
 footer{
     display:inline-block;
     position:relative;
+    background-color:rgb(103, 106, 110);
 }
 .code{
     width:10%;
