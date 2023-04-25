@@ -11,3 +11,6 @@ footer{
 h1{
     text-align:center;
 }
+#mainImage{
+    float:right;
+    width:33%;
