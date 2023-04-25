@@ -14,3 +14,8 @@ h1{
 #mainImage{
     float:right;
     width:33%;
+}
+
+body{
+    background-color:lightblue;
+}
