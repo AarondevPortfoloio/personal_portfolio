@@ -28,3 +28,10 @@ img{
 #hiddenElemenet{
     display:none;
 }
+
+iframe{
+    height 6.25rem;
+    width: 6.25rem;
+    position: relative;
+    left:29.67rem;
+}
