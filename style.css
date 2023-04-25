@@ -4,7 +4,7 @@ footer{
     display:inline-block;
     position:relative;
     background-color:rgb(103, 106, 110);
-    width:10%;
+    
 }
 .code{
     width:10%;
@@ -23,4 +23,7 @@ body{
 button{
     position:relative;
     left:29.67rem;
+}
+img{
+    width:10%
 }
