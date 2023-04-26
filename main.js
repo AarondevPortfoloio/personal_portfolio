@@ -11,7 +11,7 @@ hidden2.style.display='block';
 function btnFunction2(){
     button.innerHTML='Bye Flower'
     button.onclick = function(){
-        hidden.style.display='none';
+       hidden.style.display='none';
        hidden2.style.display='none';
     }
 }
