@@ -13,6 +13,7 @@ function btnFunction2(){
     button.onclick = function(){
        hidden.style.display='none';
        hidden2.style.display='none';
+       button.style.display='none';
     }
 }
 button.addEventListener('dblclick',btnFunction2)
