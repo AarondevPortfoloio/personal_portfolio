@@ -11,8 +11,8 @@ hidden2.style.display='block';
 function btnFunction2(){
     button.innerHTML='Bye Flower'
     button.onclick = function(){
-        hidden.style.display='block';
-       hidden2.style.display='block';
+        hidden.style.display='none';
+       hidden2.style.display='none';
     }
 }
 button.addEventListener('mouseup',btnFunction2)
