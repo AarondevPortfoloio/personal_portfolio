@@ -15,7 +15,7 @@ function btnFunction2(){
        hidden2.style.display='none';
     }
 }
-button.addEventListener('mouseup',btnFunction2)
+button.addEventListener('dblclick',btnFunction2)
 button.addEventListener('click',btnFunction)
 
 /*let button = document.getElementById('button');
